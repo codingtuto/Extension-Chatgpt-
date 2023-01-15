@@ -8,7 +8,7 @@ L'extension ChatGPT est une extension Chrome très simple (manifest v3) à laque
 2. Décompressez le fichier téléchargé.
 3. Dans le cas de Google Chrome, ouvrez la page Extensions (chrome://extensions/).
 
-❗ Comme j'ai utilisé Kiwi Browser le lien de l'extension est ainsi (chrome://extensions/)
+❗ Comme j'ai utilisé Kiwi Browser le lien de l'extension est ainsi (kiwi://extensions/)
 
 4. Activez le mode développeur en cliquant sur l'interrupteur à bascule dans le coin supérieur droit de la page.
 
